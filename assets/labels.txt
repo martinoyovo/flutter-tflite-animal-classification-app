@@ -1,0 +1,5 @@
+0 Cat
+1 Dog
+2 Panda
+3 Lion
+4 Elephant
